@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabImageTracking</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fit_image_to_scan">Fit the image you\'re scanning</string>
+    <string name="sofa">Sofa</string>
+    <string name="corals">Corals</string>
+</resources>
